@@ -1,7 +1,5 @@
 # API testing Using k6
 
----
-
 ### Prerequisite
 
 > Install K6
